@@ -1,7 +1,7 @@
 #A deque is a data structure where data can be added and removed from both the front and the back.
 #It is an improvement of stacks and queues
 
-#NOTE, the FRONT IS THE END OF THE LIST, REAR IS AT THE ZERO INDEX
+#NOTE, the FRONT IS THE END OF THE LIST, REAR IS AT THE ZERO INDEXS
 
 
 Class Deque(object):
